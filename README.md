@@ -15,4 +15,4 @@ Usage
 
 To use backbone.js include the following in your GSP:
 
-<r:require module="backbone"/>
+    <r:require module="backbone"/>
