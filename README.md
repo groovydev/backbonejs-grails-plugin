@@ -16,3 +16,12 @@ Usage
 To use backbone.js include the following in your GSP:
 
     <r:require module="backbone"/>
+
+History
+=======
+
+0.9.2.2     Upgrade underscore.js to v1.4.2
+
+0.9.2.1     drop the minimum Grails version from 2.1 to 2.0
+
+0.9.2   Initial plugin version. Provide backbone.js v0.9.2 and underscore.js v1.4.0
