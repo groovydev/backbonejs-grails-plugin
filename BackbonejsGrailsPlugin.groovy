@@ -1,5 +1,5 @@
 class BackbonejsGrailsPlugin {
-    def version = "0.9.2"
+    def version = "0.9.2.1"
     def grailsVersion = "2.0 > *"
     def title = "Grails Backbone.js Resources Plugin"
     def author = "Karol Balejko"
