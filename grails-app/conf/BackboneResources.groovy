@@ -1,7 +1,7 @@
 modules = {
 
     json2 {
-        resource url: '/js/json2.js'
+        resource url:[plugin: 'backbonejs', dir: 'js', file: 'json2.js']
     }
 
     backbone {

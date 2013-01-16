@@ -20,6 +20,8 @@ To use backbone.js include the following in your GSP:
 History
 =======
 
+0.9.10.3    Upgraded bootstrap.js to v0.9.10
+
 0.9.2.2     Upgrade underscore.js to v1.4.2
 
 0.9.2.1     drop the minimum Grails version from 2.1 to 2.0

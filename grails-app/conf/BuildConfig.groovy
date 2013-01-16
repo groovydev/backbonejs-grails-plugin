@@ -10,11 +10,11 @@ grails.project.dependency.resolution = {
 	}
 
 	plugins {
-		build(':release:2.0.4', ':rest-client-builder:1.0.2') {
+		build(':release:2.2.0', ':rest-client-builder:1.0.2') {
 			export = false
 		}
 
 		runtime ':resources:1.2-RC1'
-		compile ':underscore:1.4.2'
+		compile ':underscore:1.4.3'
 	}
 }
