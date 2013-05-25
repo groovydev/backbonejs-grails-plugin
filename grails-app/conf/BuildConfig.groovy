@@ -14,7 +14,7 @@ grails.project.dependency.resolution = {
 			export = false
 		}
 
-		runtime ':resources:1.2-RC1'
-		compile ':underscore:1.4.3'
+		runtime ':resources:1.2.RC2'
+		compile ':underscore:1.4.4'
 	}
 }
