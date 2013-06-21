@@ -20,6 +20,8 @@ To use backbone.js include the following in your GSP:
 History
 =======
 
+1.0.0       Upgraded bootstrap.sj to v1.0.0
+
 0.9.10.3    Upgraded bootstrap.js to v0.9.10
 
 0.9.2.2     Upgrade underscore.js to v1.4.2
